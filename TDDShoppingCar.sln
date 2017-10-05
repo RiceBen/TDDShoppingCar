@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDShoppingCar", "TDDShoppingCar\TDDShoppingCar.csproj", "{B7CCABBE-6106-4FAB-ADEC-3BAB0EADE34D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDShoppingCar.Test", "TDDShoppingCar.Test\TDDShoppingCar.Test.csproj", "{61D16449-5634-4B0E-96F1-98D30154CE80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CCABBE-6106-4FAB-ADEC-3BAB0EADE34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CCABBE-6106-4FAB-ADEC-3BAB0EADE34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CCABBE-6106-4FAB-ADEC-3BAB0EADE34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CCABBE-6106-4FAB-ADEC-3BAB0EADE34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D16449-5634-4B0E-96F1-98D30154CE80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D16449-5634-4B0E-96F1-98D30154CE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D16449-5634-4B0E-96F1-98D30154CE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D16449-5634-4B0E-96F1-98D30154CE80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
