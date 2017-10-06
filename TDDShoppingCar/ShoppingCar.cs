@@ -7,5 +7,9 @@ namespace TDDShoppingCar
     /// </summary>
     public class ShoppingCar
     {
+        public decimal Caculate(int qty)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
