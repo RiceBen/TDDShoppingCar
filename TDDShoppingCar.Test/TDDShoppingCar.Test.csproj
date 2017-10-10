@@ -15,4 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\TDDShoppingCar\TDDShoppingCar.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
 </Project>
